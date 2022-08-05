@@ -1,0 +1,14 @@
+{
+  "name": "taxweb",
+  "version": "1.0.0",
+  "description": "Projeto de automação em cypress Prion",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Guilherme Neves",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.3.1"
+  }
+}
