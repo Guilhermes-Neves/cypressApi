@@ -1,7 +1,7 @@
 {
   "name": "taxweb",
   "version": "1.0.0",
-  "description": "Projeto de automação em cypress Prion",
+  "description": "Projeto de automação de API em cypress",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
